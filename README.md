@@ -1,10 +1,12 @@
 non-oxygen-lifeform
 ===================
 
+
 ## spinoloricus cinziae
 https://en.m.wikipedia.org/wiki/Spinoloricus_cinziae
 
 ![](https://github.com/nondejus/non-oxygen-lifeform/blob/main/page_1_width_860.png)
+
 
 ## universe
 https://en.m.wikipedia.org/wiki/Universe
