@@ -18,3 +18,6 @@ https://en.m.wikipedia.org/wiki/Origin_of_water_on_Earth
 
 ## earliest known life forms: 3.77 billion years ago
 https://en.m.wikipedia.org/wiki/Earliest_known_life_forms
+
+## abiogenesis
+https://en.m.wikipedia.org/wiki/Abiogenesis
